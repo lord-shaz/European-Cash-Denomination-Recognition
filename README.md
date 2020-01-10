@@ -27,7 +27,7 @@
 ![Cash Denomination](https://github.com/ShehzadaAlam/European-Cash-Denomination-Recognition/blob/master/Cash_Denomination.PNG)
 
 
-##### Deep Learning Model:
+### Deep Learning Model:
 ----
 Model | Accuracy Score
 ----- | ----- 
