@@ -34,7 +34,7 @@
 ----
 
 Model | Train Accuracy | Test Accuracy
------ | ----- 
+----- | ----- | -----
 VGG16 + Top Dense Layer | 96 % | 93 % 
 
 ----
