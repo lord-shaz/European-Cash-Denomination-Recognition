@@ -26,11 +26,8 @@
 -----
 ![Cash Denomination](https://github.com/ShehzadaAlam/European-Cash-Denomination-Recognition/blob/master/Cash_Denomination.PNG)
 
-### Model Architecture
------
-![Cash Denomination](https://github.com/ShehzadaAlam/European-Cash-Denomination-Recognition/blob/master/Currency%20Model.png)
 
-### Deep Learning Model:
+### Model Building:
 ----
 
 Model | Train Accuracy | Test Accuracy
