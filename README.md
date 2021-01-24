@@ -1,4 +1,4 @@
-# European-Cash-Denomination-Recognition
+# European Cash Denomination Recognition
 -----
 ### Problem Statement:
 -----
