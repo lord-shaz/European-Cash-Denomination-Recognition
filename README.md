@@ -2,7 +2,7 @@
 -----
 ### Problem Statement:
 -----
-* To build a system that recognize different cash denomination, people can make a cash deposite in a bank machine or make a purchase using vending machine both the system have to determine the amount  of money you've deposited in them automatically. ATM uses human to verify the amount. To know possible problems with depositing checks through an ATM https://money.howstuffworks.com/personal-finance/online-banking/deposit-checks-through-atm1.htm
+To build a system that recognize different cash denomination, people can make a cash deposite in a bank machine or make a purchase using vending machine both the system have to determine the amount of money you've deposited in them automatically. ATM uses human to verify the amount. To know possible problems with depositing checks through an ATM https://money.howstuffworks.com/personal-finance/online-banking/deposit-checks-through-atm1.htm
 
 ### Dataset:
 ----
